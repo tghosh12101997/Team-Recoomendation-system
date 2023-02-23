@@ -1,0 +1,18 @@
+[18-Oct-2022 03:45:26 UTC] PHP Notice:  Undefined index: id in /home/raams1986/public_html/DBSE/Admin/graph.php on line 3
+[18-Oct-2022 03:45:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/raams1986/public_html/DBSE/Admin/graph.php:5
+Stack trace:
+#0 /home/raams1986/public_html/DBSE/Admin/graph.php(5): PDOStatement->execute()
+#1 {main}
+  thrown in /home/raams1986/public_html/DBSE/Admin/graph.php on line 5
+[18-Oct-2022 03:48:45 UTC] PHP Notice:  Undefined index: id in /home/raams1986/public_html/DBSE/Admin/graph.php on line 3
+[18-Oct-2022 03:48:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/raams1986/public_html/DBSE/Admin/graph.php:5
+Stack trace:
+#0 /home/raams1986/public_html/DBSE/Admin/graph.php(5): PDOStatement->execute()
+#1 {main}
+  thrown in /home/raams1986/public_html/DBSE/Admin/graph.php on line 5
+[18-Oct-2022 03:49:27 UTC] PHP Notice:  Undefined index: id in /home/raams1986/public_html/DBSE/Admin/graph.php on line 3
+[18-Oct-2022 03:49:27 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/raams1986/public_html/DBSE/Admin/graph.php:5
+Stack trace:
+#0 /home/raams1986/public_html/DBSE/Admin/graph.php(5): PDOStatement->execute()
+#1 {main}
+  thrown in /home/raams1986/public_html/DBSE/Admin/graph.php on line 5
